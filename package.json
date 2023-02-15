@@ -2,7 +2,7 @@
   "name": "@marinaustinovich/ajs",
   "version": "1.0.1",
   "description": "",
-  "main": "dist/index.js",
+  "main": "dist/dist/index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
